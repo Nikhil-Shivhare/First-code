@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # First-code
 <!-- a =int (input ("rom rom bhaiyo "))
+=======
+# First-code a =int (input ("rom rom bhaiyo "))
+>>>>>>> eff40a1057e273be68cf2ff1dbfc2daa577844e5
 for m in range(1,a+1):
     for n in range (a,0,-1):
         if (n>m):
@@ -14,5 +18,4 @@ for m in range(1,a+1):
             print( '',end=(' # '))
         else:
             print('',end=('  '))    
-    print('')      -->
-    hy what's up jkjgghjdtgyfyh
+    print('')    fhjjgjgkgcig 
